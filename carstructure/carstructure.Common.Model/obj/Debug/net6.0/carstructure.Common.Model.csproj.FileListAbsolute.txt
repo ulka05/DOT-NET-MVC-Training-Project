@@ -1,0 +1,15 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\bin\Debug\net6.0\carstructure.Common.Model.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\bin\Debug\net6.0\carstructure.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\bin\Debug\net6.0\carstructure.Common.Model.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\bin\Debug\net6.0\carstructure.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\bin\Debug\net6.0\carstructure.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.csproj.CopyComplete
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\refint\carstructure.Common.Model.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\carstructure.Common.Model.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Model\obj\Debug\net6.0\ref\carstructure.Common.Model.dll

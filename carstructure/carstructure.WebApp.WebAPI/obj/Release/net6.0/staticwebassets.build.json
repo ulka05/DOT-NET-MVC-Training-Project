@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8SK7KFbZKWgQz1wKM4Eb+fSe6z1yBnOWm2cTezNj7NU=",
+  "Source": "carstructure.WebApp.1_WebAPI",
+  "BasePath": "_content/carstructure.WebApp.1_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

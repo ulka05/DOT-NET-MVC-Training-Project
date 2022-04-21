@@ -1,0 +1,12 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\bin\Release\net6.0\carstructure.Common.Enum.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\bin\Release\net6.0\carstructure.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\bin\Release\net6.0\carstructure.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\refint\carstructure.Common.Enum.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\carstructure.Common.Enum.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Desktop\carstructure\carstructure.Common.Enum\obj\Release\net6.0\ref\carstructure.Common.Enum.dll
